@@ -10,7 +10,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=paulo0899&show_icons=true&count_private=true&theme=dracula&hide=issues" />
 </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulo0899&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulo0899&layout=compact&theme=dracula" />
 </a>
 </p>
 <!--> :octocat:
